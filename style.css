@@ -1,0 +1,15 @@
+body{
+   position: relative;
+    text-align: center;
+    background:linear-gradient(45deg, #FF9933 , white , white , #138808); 
+}
+
+#countdown{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:x-large;
+}
